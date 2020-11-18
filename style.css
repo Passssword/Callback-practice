@@ -19,8 +19,18 @@ h3 {
 	border-radius: 10px;
 	padding: 10px;
 }
-.practice_description {padding: 10px;}
-.work_place {padding: 10px;}
+.practice_description {
+	padding: 10px;
+	margin: 10px 3%;
+	border: 1px solid #3D405B;
+	border-radius: 10px;
+}
+.work_place {
+	padding: 10px;
+	margin: 10px 3%;
+	border: 1px solid #3D405B;
+	border-radius: 10px;
+}
 
 /*---Foter---*/
 footer {
